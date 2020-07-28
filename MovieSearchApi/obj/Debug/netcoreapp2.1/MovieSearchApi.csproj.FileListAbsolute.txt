@@ -1,0 +1,13 @@
+C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\bin\Debug\netcoreapp2.1\MovieSearchApi.deps.json
+C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\bin\Debug\netcoreapp2.1\MovieSearchApi.runtimeconfig.json
+C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\bin\Debug\netcoreapp2.1\MovieSearchApi.runtimeconfig.dev.json
+C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\bin\Debug\netcoreapp2.1\MovieSearchApi.dll
+C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\bin\Debug\netcoreapp2.1\MovieSearchApi.pdb
+C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\obj\Debug\netcoreapp2.1\MovieSearchApi.csproj.CoreCompileInputs.cache
+C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\obj\Debug\netcoreapp2.1\MovieSearchApi.RazorAssemblyInfo.cache
+C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\obj\Debug\netcoreapp2.1\MovieSearchApi.RazorAssemblyInfo.cs
+C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\obj\Debug\netcoreapp2.1\MovieSearchApi.AssemblyInfoInputs.cache
+C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\obj\Debug\netcoreapp2.1\MovieSearchApi.AssemblyInfo.cs
+C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\obj\Debug\netcoreapp2.1\MovieSearchApi.RazorTargetAssemblyInfo.cache
+C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\obj\Debug\netcoreapp2.1\MovieSearchApi.dll
+C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\obj\Debug\netcoreapp2.1\MovieSearchApi.pdb
