@@ -11,3 +11,4 @@ C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\obj\Debug\netcorea
 C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\obj\Debug\netcoreapp2.1\MovieSearchApi.RazorTargetAssemblyInfo.cache
 C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\obj\Debug\netcoreapp2.1\MovieSearchApi.dll
 C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\obj\Debug\netcoreapp2.1\MovieSearchApi.pdb
+C:\Users\Biswanath\Source\Repos\MovieSearchApi\MovieSearchApi\obj\Debug\netcoreapp2.1\MovieSearchApi.csprojAssemblyReference.cache
