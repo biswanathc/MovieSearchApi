@@ -24,3 +24,15 @@ I would have moved the data access logic to a repository layer and used reposito
 
 Would have added unit test project.
 
+
+
+# Pre-requisite to run the application and build/test locally.
+
+Local sqllite DB has not been checked in. For this please use migration feature of EF.
+
+In nuget package manager console of visual studio execute below commands.
+
+Install-Package Microsoft.EntityFrameworkCore.Tools
+Add-Migration
+Update-Database
+
