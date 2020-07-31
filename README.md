@@ -24,6 +24,7 @@ I would have moved the data access logic to a repository layer and used reposito
 
 Would have added unit test project.
 
+Would have integrated swagger for api documentation.
 
 
 # Pre-requisite to run the application and build/test locally.
